@@ -2,3 +2,5 @@ dataset
 dataset/
 .ipynb_checkpoints
 .ipynb_checkpoints/
+venv
+venv/
